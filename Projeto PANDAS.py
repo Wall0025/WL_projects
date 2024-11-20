@@ -5,6 +5,8 @@
 #Packs
 import pandas as pd
 
+
+
 #Import
 data_df = pd.read_excel("Tabela 1.xlsx")    #Tabela versão 1
 
